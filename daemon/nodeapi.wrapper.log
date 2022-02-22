@@ -1,0 +1,275 @@
+2020-04-07 12:13:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-04-07 12:13:20 - Started 7476
+2020-04-08 22:03:30 - Stopping nodeapi.exe
+2020-04-08 22:03:30 - ProcessKill 7476
+2020-04-08 22:03:37 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2020-04-08 22:07:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-04-08 22:07:37 - Started 2844
+2020-04-09 08:38:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-04-09 08:38:26 - Started 2564
+2020-05-04 17:17:38 - Stopping nodeapi.exe
+2020-05-04 17:17:41 - Finished nodeapi.exe
+2020-05-04 17:23:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-04 17:23:43 - Started 2656
+2020-05-04 17:52:18 - Stopping nodeapi.exe
+2020-05-04 17:52:18 - ProcessKill 2656
+2020-05-04 17:52:24 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2020-05-04 17:58:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-04 17:58:36 - Started 2544
+2020-06-05 11:53:24 - Stopping nodeapi.exe
+2020-06-05 11:53:25 - Finished nodeapi.exe
+2020-06-05 11:55:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-06-05 11:55:59 - Started 2716
+2020-09-08 09:42:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-08 09:42:30 - Started 2508
+2020-10-27 09:04:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-10-27 09:04:07 - Started 2484
+2020-11-11 09:59:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-11 09:59:16 - Started 2540
+2020-11-13 15:36:04 - Stopping nodeapi.exe
+2020-11-13 15:36:04 - ProcessKill 2540
+2020-11-13 15:36:09 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2020-11-13 15:38:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-13 15:38:44 - Started 2700
+2020-11-18 15:05:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-18 15:05:43 - Started 2648
+2021-03-11 03:20:24 - Stopping nodeapi.exe
+2021-03-11 03:20:26 - Finished nodeapi.exe
+2021-03-11 03:23:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-03-11 03:23:39 - Started 2700
+2021-06-13 04:25:20 - Stopping nodeapi.exe
+2021-06-13 04:25:22 - Finished nodeapi.exe
+2021-06-13 03:28:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-13 03:28:38 - Started 2732
+2021-06-13 03:36:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-13 03:36:14 - Started 3084
+2021-06-19 16:05:09 - Stopping nodeapi.exe
+2021-06-19 16:05:09 - ProcessKill 3084
+2021-06-19 16:05:13 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-19 16:14:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-19 16:14:12 - Started 2776
+2021-06-19 16:53:51 - Stopping nodeapi.exe
+2021-06-19 16:53:53 - ProcessKill 2776
+2021-06-19 16:53:56 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-19 18:08:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-19 18:08:18 - Started 3176
+2021-06-23 18:53:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-23 18:53:05 - Started 2764
+2021-06-26 10:56:19 - Stopping nodeapi.exe
+2021-06-26 10:56:20 - ProcessKill 2764
+2021-06-26 10:56:27 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-26 11:06:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-26 11:06:38 - Started 3016
+2021-06-26 11:12:26 - Stopping nodeapi.exe
+2021-06-26 11:12:26 - ProcessKill 3016
+2021-06-26 11:12:29 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-26 11:34:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-26 11:34:15 - Started 3052
+2021-06-26 11:42:15 - Stopping nodeapi.exe
+2021-06-26 11:42:15 - ProcessKill 3052
+2021-06-26 11:42:18 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-26 11:48:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-26 11:48:55 - Started 1368
+2021-06-26 12:02:55 - Stopping nodeapi.exe
+2021-06-26 12:02:55 - ProcessKill 1368
+2021-06-26 12:02:59 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-26 13:12:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-26 13:12:43 - Started 3080
+2021-06-27 03:15:31 - Stopping nodeapi.exe
+2021-06-27 03:15:31 - ProcessKill 3080
+2021-06-27 03:15:38 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-27 03:18:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-27 03:18:25 - Started 3272
+2021-06-28 07:31:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-28 07:31:37 - Started 3264
+2021-06-28 16:52:04 - Stopping nodeapi.exe
+2021-06-28 16:52:04 - ProcessKill 3264
+2021-06-28 16:52:07 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-06-28 17:17:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-28 17:17:05 - Started 3092
+2021-07-03 12:52:46 - Stopping nodeapi.exe
+2021-07-03 12:52:46 - ProcessKill 3092
+2021-07-03 12:52:52 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-07-26 06:50:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-26 06:50:52 - Started 2800
+2021-07-29 14:32:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-29 14:32:48 - Started 3004
+2021-08-10 08:21:29 - Stopping nodeapi.exe
+2021-08-10 08:21:29 - ProcessKill 3004
+2021-08-10 08:21:29 - Shutdown exception
+Message:O sistema está sendo desligado. (Exceção de HRESULT: 0x8007045B)
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-08-10 08:21:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-10 08:21:56 - Started 524
+2021-08-22 08:04:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-22 08:04:26 - Started 1504
+2021-09-14 09:48:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-14 09:48:35 - Started 2192
+2021-09-16 01:16:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 01:16:16 - Started 2556
+2021-09-17 19:24:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-17 19:24:14 - Started 3240
+2021-09-27 17:54:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-27 17:54:23 - Started 3308
+2021-09-29 20:23:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-29 20:23:32 - Started 3092
+2021-10-02 10:13:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-02 10:13:33 - Started 2304
+2021-10-17 16:10:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-17 16:10:56 - Started 3040
+2021-11-02 13:36:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-02 13:36:46 - Started 3084
+2021-11-11 09:25:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-11 09:25:11 - Started 2956
+2021-11-11 10:46:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-11 10:46:08 - Started 3216
+2021-11-12 09:25:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-12 09:25:52 - Started 3084
+2021-12-03 15:35:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-03 15:35:45 - Started 3088
+2022-01-09 16:49:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-09 16:49:39 - Started 3160
+2022-01-10 08:21:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 08:21:10 - Started 3556
+2022-01-10 08:39:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 08:39:11 - Started 3356
+2022-01-10 08:45:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 08:45:09 - Started 3520
+2022-01-10 08:52:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 08:52:44 - Started 3208
+2022-01-10 09:20:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 09:20:44 - Started 3440
+2022-01-10 09:55:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-10 09:55:11 - Started 3080
+2022-01-31 12:56:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-31 12:56:09 - Started 2852
+2022-01-31 13:08:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\lecio\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file D:\APP\VFicha\node\www\index.js --scriptoptions= --log "Node-API wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-31 13:08:12 - Started 2740
